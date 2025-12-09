@@ -8,8 +8,8 @@ if [ -z "$1" ]; then
 	exit 1
 fi
 
-FREQ="103.1M"
-DURATION=3
+FREQ="106.5M"
+DURATION=2
 
 OUTFILE="$OUTDIR/$1.wav"
 
