@@ -1,0 +1,17 @@
+Keyboard keys
+C0 to C2
+notein, ch 1; note 48-72
+
+
+Drumpad
+pad 1 to 8
+notein, ch 10; note 36-43
+
+
+Knobs
+K1 to K8
+ctlin, ch 1; ctrl# 70-77
+
+
+Joystick
+bendin, ch1; default val 8192
